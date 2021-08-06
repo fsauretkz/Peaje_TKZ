@@ -1,0 +1,8 @@
+PC:|CasetaID PSM
+Carril:|CarrilID |Cuerpo
+CR:|CrID |Cajero
+ECT         C/R       F/P       TAR 
+|VehECT   |VehiculoID    |PagoID    $|Total
+|Fecha  |Hora
+Sec:|Secuencial Fol:|Folio
+|Tarjeta |VehiEAP

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Plazas>
+  <tag>0</tag> <!-- ActivarLogECT-->
+  <tag>0</tag><!-- ActivarLogEAP-->
+  <tag>0</tag><!-- ActivarLogTitulacion-->
+  <tag>0</tag><!-- ActivarLogTeclado-->
+  <tag>0</tag> <!-- simulaPOS-->
+  <tag>5</tag><!-- TiempoPago-->
+  <tag>5</tag><!-- TiempoEAP-->
+  <tag>1</tag><!-- MostrarAforo-->
+  <tag>1</tag><!-- ConAsistente-->
+  <tag>0</tag><!-- ActivarLogECTR-->
+  <tag>0</tag><!-- SinPulso-->
+  <tag>0</tag><!-- ComandoConEspacio-->
+  <tag>6</tag><!-- ToleranciaLectura-->
+  <tag>1</tag><!-- CobroTLPAutomatico-->
+  <tag>8</tag><!-- TiempoEliminaPlaca-->
+  <tag>0</tag><!-- EliminarPlacas-->
+  <tag>C:\RespaldoPlacas</tag><!-- FTPRespaldoPlacas-->
+  <tag>0</tag><!-- MostrarCancelados-->
+  <tag>2000</tag><!-- RetardoHiloDisplayPOS-->
+  <tag>peana</tag><!-- TipoClasificacion-->
+  <tag>1</tag><!-- unsolopulsobarrera-->
+  <tag>1</tag><!-- telepeajePRE-->
+  <tag>1</tag><!--IncluyeNumeroCliente-->
+  <tag>5</tag><!-- TotalNumeroCliente-->
+  <tag>1</tag><!-- EsResolucionMenor1024-->
+  <tag>1</tag><!-- MostrarTextoRelevadores-->
+  <tag>0</tag><!-- ValidarEstatusBase-->
+  <tag>1</tag><!-- MostrarDisplayLCD-->
+  <tag>1</tag><!-- RetardoCobroTLP-->
+  <tag>0</tag><!-- EsperarLoopCabina-->
+  <tag>1</tag><!-- MostrarBotonELU-->
+  <tag>0</tag><!-- MostrarBotonIAV-->
+  <tag>500</tag><!-- TiempoSonidoAlarma-->
+  <tag>0</tag><!-- RetardoBajaBarrera-->
+  <tag>0</tag><!-- SemaforoPorTiempo-->
+  <tag>0</tag><!-- GuardarTagRechazados-->
+  <tag>7</tag><!-- TiempoCaducadoLecturas-->
+  <tag>1</tag><!-- ControlTarjeta-->
+  <tag>1</tag><!-- ValidarSesionCR-->
+  <tag>1</tag><!-- TitulacionPorAIX-->  
+  <tag>root</tag><!-- UsuarioAIX-->
+  <tag>finiquito</tag><!-- PasswordAIX-->
+  <tag>http://</tag><!-- URLAIX-->
+  <tag>172.25.10.156/axis-cgi/dynamicoverlay.cgi?action=settext</tag><!-- URLAIX-->
+  <tag>1</tag><!-- MostrarBateria-->
+  <tag>20</tag><!-- RangoSincronizacion-->
+  <tag>15</tag><!-- RangoDesconexion-->
+  <tag>8</tag><!-- RangoReplicacion-->
+  <tag>4</tag><!-- RetardoCobro-->
+  <tag>1</tag><!-- AlarmaECT-->
+  <tag>0</tag><!-- AlarmaEAP-->
+  <tag>1</tag><!-- AlarmaTarjeta-->
+  <tag>1</tag><!-- ProcesarAlarma-->                                                                                 
+  <tag>5</tag><!-- TiempoProcesarAlarmaEAP-->
+  <tag>60</tag><!-- TiempoReapertura-->
+  <tag>0</tag><!-- AbreBarreraManual-->   
+  <tag>0</tag><!-- TiempoCruce--> 
+  <tag>1</tag><!-- MostrarPruebas-->
+  <tag>0</tag><!-- ActivarEsperarCruce-->   
+  <tag>1</tag><!-- AlmacenarPeticionBarera-->  
+  <tag>10</tag><!-- SincronizacionRED--> 
+  <tag>192.168.226.1</tag><!-- IPDisplay--> 
+  <tag>https://qa10.mitec.com.mx</tag><!-- ambiente--> 
+  <tag>https://qa3.mitec.com.mx</tag><!-- ambienteURL--> 
+  <tag>1</tag><!-- Telepeaje Cise--> 
+  <tag>root</tag><!-- UsuarioTPV-->
+  <tag>finiquito</tag><!-- PasswordTPV-->
+  <tag>0</tag><!-- EnviarAlarmaDisplay-->
+  <tag>0</tag><!-- EnviarAlarmaReplicador-->
+  <tag>0</tag><!-- EnviarAlarmaServidor-->
+  <tag>0</tag><!-- EnviarAlarmaPlacas-->
+  <tag>1</tag><!-- EnviarAlarmaImpresora-->
+  <tag>1</tag><!-- EnviarTelepeaje-->
+  <tag>0</tag><!-- ExclusivoTagValidoAbre-->
+  <tag>0</tag><!-- ExclusivoTagValidoCierra-->
+  <tag>0</tag><!-- ExclusivoTagInValidoAbre-->
+  <tag>0</tag><!-- ExclusivoTagInValidoCierra-->
+  <tag>0</tag><!-- ExclusivoMarquesinaActivo-->
+  <tag>0</tag><!-- ExclusivoMarquesinaInActivo-->
+  <tag>0</tag><!-- ExclusivoTagPanelValido-->
+  <tag>0</tag><!-- ExclusivoTagPanelInValido-->
+  <tag>0</tag><!-- ExclusivoTagPanelApagado-->  
+  <tag>100</tag><!-- RetardoPanel-->  
+  <tag>0</tag><!-- PosicionX-->
+  <tag>40</tag><!-- PosicionY-->
+  <tag>210</tag><!-- PosicionXExcentos-->
+  <tag>40</tag><!-- PosicionYExcentos-->
+<tag>Maravatio</tag><!-- Sentido-->
+<tag>10</tag><!-- DesconexionDispositivos-->
+<tag>0</tag><!-- GuardarLogTarjeta-->
+<tag>0</tag><!-- GuardarLogCobro-->
+<tag>0</tag><!-- TomarFoto-->
+
+</Plazas>

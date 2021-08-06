@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <tbl>
+    <EsAuditor>0</EsAuditor>
+    <MostrarSenal>0</MostrarSenal>
+    <ActualizarTarifas>1</ActualizarTarifas>
+    <EsPeajeCerrado>0</EsPeajeCerrado>
+    <TomarFoto>0</TomarFoto>
+    <Encriptar>1</Encriptar>
+    <LogTLP>0</LogTLP>
+    <MostrarFolio>0</MostrarFolio>
+    <LogPiso>0</LogPiso>
+    <ConexionAccessLocal>Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Peaje_TKZ\Negocio\bin\Debug\Log.mdb;Jet OLEDB:Database Password=021815</ConexionAccessLocal>
+    <ConexionAccessRemoto>Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Peaje_TKZ\Negocio\bin\Debug\Log.mdb;Jet OLEDB:Database Password=021815</ConexionAccessRemoto>
+	<ValidarVehiculo>1</ValidarVehiculo>	
+  </tbl>
+</DocumentElement>
